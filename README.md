@@ -66,4 +66,3 @@ y_pred = model.predict([x_test])
 print("Patient has Thyroid" if y_pred[0] == 0 else "No Thyroid")
 ```
 
- the MIT License.
